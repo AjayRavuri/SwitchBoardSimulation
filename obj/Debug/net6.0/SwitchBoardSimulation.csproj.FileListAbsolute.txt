@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\SwitchBoardSimulation\obj\Debug\net6.0\SwitchBoardSimulation.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\SwitchBoardSimulation\obj\Debug\net6.0\SwitchBoardSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\SwitchBoardSimulation\obj\Debug\net6.0\SwitchBoardSimulation.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SwitchBoardSimulation\obj\Debug\net6.0\SwitchBoardSimulation.AssemblyInfo.cs
+C:\Users\hp\source\repos\SwitchBoardSimulation\obj\Debug\net6.0\SwitchBoardSimulation.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SwitchBoardSimulation\bin\Debug\net6.0\SwitchBoardSimulation.exe
+C:\Users\hp\source\repos\SwitchBoardSimulation\bin\Debug\net6.0\SwitchBoardSimulation.deps.json
+C:\Users\hp\source\repos\SwitchBoardSimulation\bin\Debug\net6.0\SwitchBoardSimulation.runtimeconfig.json
+C:\Users\hp\source\repos\SwitchBoardSimulation\bin\Debug\net6.0\SwitchBoardSimulation.dll
+C:\Users\hp\source\repos\SwitchBoardSimulation\bin\Debug\net6.0\SwitchBoardSimulation.pdb
+C:\Users\hp\source\repos\SwitchBoardSimulation\obj\Debug\net6.0\SwitchBoardSimulation.dll
+C:\Users\hp\source\repos\SwitchBoardSimulation\obj\Debug\net6.0\refint\SwitchBoardSimulation.dll
+C:\Users\hp\source\repos\SwitchBoardSimulation\obj\Debug\net6.0\SwitchBoardSimulation.pdb
+C:\Users\hp\source\repos\SwitchBoardSimulation\obj\Debug\net6.0\SwitchBoardSimulation.genruntimeconfig.cache
+C:\Users\hp\source\repos\SwitchBoardSimulation\obj\Debug\net6.0\ref\SwitchBoardSimulation.dll
